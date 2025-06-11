@@ -9,6 +9,8 @@ It helps users:
 
 👉 Explore it here: [https://futuredesignerai.com](https://futuredesignerai.com)
 
+👉 And here: [https://github.com/future-d3signer](https://github.com/future-d3signer)
+
 ![Future Designer Preview](https://github.com/user-attachments/assets/75e64776-1c8c-4b29-90c8-69ed9daae0ee)
  <!-- Replace with your actual screenshot file -->
 
