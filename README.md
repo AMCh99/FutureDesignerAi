@@ -1,21 +1,22 @@
-# FutureDesignerAi#
+# 🌟 Future Designer
 
-Hi there! 👋  
-This repository exists to share that I’m a co-creator of **[Future Designer](https://futuredesignerai.com)** — an AI-powered tool for interior design visualization.
+**Future Designer** is an AI-powered tool for generating interior design concepts based on real photos.
 
-## 🔎 About the Project
-**Future Designer** helps users to:
-- Instantly visualize interior redesigns based on real photos,
-- Explore different design styles (e.g. Scandinavian, Industrial, Japandi),
-- Experiment with layouts and looks **without needing a designer or doing actual renovations**.
+It helps users:
+- Visualize different interior styles instantly (Scandinavian, Industrial, Japandi, and more),
+- Experiment with room transformations without renovation,
+- Get design inspiration quickly, with no design experience needed.
 
-Visit the live app 👉 [https://futuredesignerai.com](https://futuredesignerai.com)
+👉 Explore it here: [https://futuredesignerai.com](https://futuredesignerai.com)
 
-## 🤝 Collaboration & Contact
-If you're interested in collaborating (B2B partnerships, furniture retail integrations, real estate applications, etc.) or want to give feedback — feel free to reach out!
-
-📩 Contact me via GitHub or use the contact form on the website.
+![Future Designer Preview](https://github.com/user-attachments/assets/75e64776-1c8c-4b29-90c8-69ed9daae0ee)
+ <!-- Replace with your actual screenshot file -->
 
 ---
+I’m a **co-author** of Future Designer.  
+The main repository is private, but the tool is publicly available through the website.
 
-🔗 **Note:** The main project repository is part of the [futuredesigner](https://github.com/futuredesigner) GitHub organization.
+> ⚙️ This is **not** just another wrapper around OpenAI or Google Gemini APIs —  
+> Future Designer runs on **open-source AI models** deployed on GPU infrastructure.
+
+For partnership or collaboration inquiries (e.g. furniture brands, retailers, real estate, or educational use), feel free to reach out via GitHub or through the contact form on the site.
