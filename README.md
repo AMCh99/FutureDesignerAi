@@ -31,3 +31,6 @@ Achievements:
 - [Best wmi masters project 2024/2025](https://www.linkedin.com/posts/wmiuam_10-czerwca-na-naszym-wydziale-odby%C5%82-si%C4%99-fina%C5%82-activity-7338914046835863553-n3yD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn4GjgB7GQQwQbBFeiDTljmfpY-u-Y7lt4)
 - [Best wmi masters project 2024/2025](https://www.linkedin.com/posts/wmiuam_projektbadawczorozwojowy-dzieagmkandydata-activity-7290660009678458880-nXrS/?utm_source=share&amp;utm_medium=member_desktop)
 - [PP-RAI 2025 poster session](https://www.linkedin.com/posts/arkadiusz-charli%C5%84ski_i-recently-had-the-opportunity-to-present-activity-7320520153568321537-oAaY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn4GjgB7GQQwQbBFeiDTljmfpY-u-Y7lt4)
+
+---
+Tech stack: Python, Milvus, Firebase, Azure, Next.js, Tailwind
