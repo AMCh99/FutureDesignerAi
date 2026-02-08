@@ -27,7 +27,7 @@ For partnership or collaboration inquiries (e.g. furniture brands, retailers, re
 
 ---
 Achievements:
-- ECMLPKDD Demo Track 00.2026 [https://ecmlpkdd.org/2025/](https://ecmlpkdd.org/2025/)
+- [ECMLPKDD Demo Track 00.2026](https://wmi.amu.edu.pl/wiadomosci/sukcesy/studenci-na-konferencji-ecml-pkdd-2025) [Preprint](https://ecmlpkdd-storage.s3.eu-central-1.amazonaws.com/preprints/2025/demos/preprint_ecml_pkdd_2025_demos_1708.pdf)
 - [Best wmi masters project 2024/2025](https://www.linkedin.com/posts/wmiuam_10-czerwca-na-naszym-wydziale-odby%C5%82-si%C4%99-fina%C5%82-activity-7338914046835863553-n3yD?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn4GjgB7GQQwQbBFeiDTljmfpY-u-Y7lt4)
 - [Best wmi masters project 2024/2025](https://www.linkedin.com/posts/wmiuam_projektbadawczorozwojowy-dzieagmkandydata-activity-7290660009678458880-nXrS/?utm_source=share&amp;utm_medium=member_desktop)
 - [PP-RAI 2025 poster session](https://www.linkedin.com/posts/arkadiusz-charli%C5%84ski_i-recently-had-the-opportunity-to-present-activity-7320520153568321537-oAaY?utm_source=share&utm_medium=member_desktop&rcm=ACoAADn4GjgB7GQQwQbBFeiDTljmfpY-u-Y7lt4)
